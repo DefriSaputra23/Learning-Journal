@@ -1,4 +1,4 @@
-#Learning Journal Reverse Engineering#
+# Learning Journal Reverse Engineering #
 
 Repository ini berisi dokumentasi proses belajar mata kuliah Reverse Engineering selama satu semester.
 
