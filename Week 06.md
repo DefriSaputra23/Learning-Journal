@@ -1,7 +1,5 @@
 # Week 06 - Hardware Reverse Engineering
 
-**Tanggal:** *(Isi tanggal perkuliahan)*
-
 ## 📚 Topik
 - Reverse Engineering Hardware
 - Firmware
