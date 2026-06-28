@@ -224,7 +224,7 @@ Materi minggu ini membuat saya memahami bahwa penggunaan memori tidak hanya berp
 
 1. https://www.petanikode.com/c-malloc/
 2. https://www.ibm.com/id-id/think/topics/garbage-collection-java
-3. Modul Praktikum Reverse Engineering
+3. Modul Waskita Amikom Reverse Engineering
 
 ---
 
