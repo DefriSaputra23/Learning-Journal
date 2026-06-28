@@ -253,7 +253,7 @@ Materi minggu ini membuat saya memahami bahwa melihat struktur program saja belu
 
 # Referensi
 
-1. Modul Praktikum Reverse Engineering
+1. Modul Waskita Amikom Reverse Engineering
 2. x64dbg Documentation
 3. Microsoft WinDbg Documentation
 4. Sysinternals Process Monitor Documentation
